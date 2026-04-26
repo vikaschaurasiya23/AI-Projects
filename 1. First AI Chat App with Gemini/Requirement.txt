@@ -1,0 +1,7 @@
+pip install google-genai
+
+Get Gemini free key from https://aistudio.google.com/api-keys
+
+Add your key in environment using commond prompt.
+
+$env:GOOGLE_API_KEY = "MyKey"
